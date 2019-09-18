@@ -13,4 +13,4 @@
 
 ## Key Insights for Presentation
 
-> First, we will try to show how duration is affected by age and then we will relate those two variables to other variables such as start and end stations and gender.
+> First, we will try to show how duration is affected by age and then relate those two variables to other variables such as start and end stations and gender.
